@@ -9,13 +9,13 @@
 }
 
 .plainclass {
-  color:            white;
-  background-color: #001030;
+  background-color: #f0f0f0;
+  color:            #222222;
 }
 
 .plainclass1 {
-  color:            white;
-  background-color: black;
+  background-color: #f0f0f0;
+  color:            #222222;
 }
 
 .container {
@@ -111,8 +111,8 @@
 }
 
 .navbar {
-  background-color: #222222;
-  color:            #FFFFFF;
+  background-color: #f0f0f0;
+  color:            #222222;
   font-size:        0.7em;
 }
 
