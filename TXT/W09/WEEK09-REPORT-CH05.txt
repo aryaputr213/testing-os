@@ -1,0 +1,103 @@
+mkdir: created directory '/home/aryaputr213/git'
+mkdir: created directory '/home/aryaputr213/git/os211quiz'
+mkdir: created directory '/home/aryaputr213/git/os211quiz/SandBox'
+mkdir: created directory '/home/aryaputr213/git/os211quiz/SandBox/W09'
+mkdir: created directory '/home/aryaputr213/git/os211quiz/SandBox/W09/W09/'
+ZCZC ===== Chapter 05 =====  Week 09 =====
+ZCZC pwd /home/aryaputr213/git/os211quiz/SandBox/W09/W09
+ZCZC date 210517-1926
+ZCZC hostname osp
+ZCZC username aryaputr213
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M      /mnt/lfs/sources/
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 2658-FE2E Verified
+ZCZC MaxLFS 482M
+ZCZC MaxROOT 2763M
+ZCZC MaxMemory 98M
+ZCZC MaxSwap 0M
+aryaputr213W09
+
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 2800-0E09 Verified
+ZCZC MaxMemory 99M
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 2902-231C Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3003-2BA3 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3105-9513 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3206-C325 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3308-F42E Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3409-87A3 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3511-342D Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3612-6E1D Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3713-E63B Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3815-E5D7 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3917-583A Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4018-0B83 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4119-4F4F Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4221-DC3E Verified
+
+
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4323-53BA Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4424-C15C Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4526-D2B2 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4627-57DC Verified
+ZCZC MaxMemory 100M
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4729-D265 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4830-F0EE Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4932-52C6 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 5033-8E0E Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 5134-61E7 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 5236-D92E Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 5337-7A66 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 5439-D5CC Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 5540-6EC9 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 5642-136B Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 5743-CFE7 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 5845-7018 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 5946-0940 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 0048-2DBF Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 0149-E0A0 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 0251-5397 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 0352-FAE0 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 0454-210F Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 0555-BBDB Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 0657-2B17 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 0758-DCA5 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 0900-819A Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 1001-AA3B Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 1103-27EC Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 1204-CE10 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 1306-890D Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 1407-5EE9 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 1509-9AB2 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 1610-6450 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 1712-D823 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 1813-FA9E Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 1915-12B2 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 2016-1736 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 2118-CBFA Verified
+ZCZC MaxMemory 101M
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 2220-83A6 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 2321-0195 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 2423-5F38 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 2524-469E Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 2626-0640 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 2727-F95A Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 2829-0922 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 2932-F9B5 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3034-E36E Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3136-E7A4 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3237-8AC0 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3339-9861 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3440-66A4 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3542-7D05 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3643-CD0F Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3745-7ACA Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3846-DA4F Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3948-6244 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4050-1CCB Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4151-ECCE Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4253-79D3 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4354-C008 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4456-C3D6 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4557-D6F3 Verified
