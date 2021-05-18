@@ -1,0 +1,34 @@
+ZCZC ===== Chapter 07_5 =====  Week 09 =====
+ZCZC pwd /home/aryaputr213/git/os211quiz/SandBox/W09/W09
+ZCZC date 210517-2230
+ZCZC hostname osp
+ZCZC username aryaputr213
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M      /mnt/lfs/sources/
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3044-0987 Verified
+ZCZC MaxLFS 482M
+ZCZC MaxROOT 2763M
+ZCZC MaxMemory 103M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 104M
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3147-047D Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3248-D772 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3350-9EA7 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3451-7C11 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3553-7507 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3655-F4FC Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3757-1FB0 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 3859-3B68 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4001-7686 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4103-CBCC Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4205-277C Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4306-AD36 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4409-06EF Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4510-8AF2 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4612-FFEF Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4714-019F Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4816-CFF0 Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 4918-1D9C Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 5019-B255 Verified
