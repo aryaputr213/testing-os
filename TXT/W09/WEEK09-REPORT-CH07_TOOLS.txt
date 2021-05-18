@@ -1,6 +1,6 @@
-ZCZC ===== Chapter 07_7 =====  Week 09 =====
+ZCZC ===== Chapter 07_TOOLS =====  Week 09 =====
 ZCZC pwd /home/aryaputr213/git/os211quiz/SandBox/W09/W09
-ZCZC date 210518-1459
+ZCZC date 210518-1500
 ZCZC hostname aryaputr213
 ZCZC username aryaputr213
 ZCZC Please Wait...
@@ -770,8 +770,8 @@ ZCZC Sources  440K      /mnt/lfs/sources/glibc-2.33/scripts
 12K     /mnt/lfs/sources/glibc-2.33/mathvec
 254M    /mnt/lfs/sources/glibc-2.33
 684M    /mnt/lfs/sources/
-ZCZC verifyTokenn aryaputr213W09 aryaputr213 5926-513B Verified
+ZCZC verifyTokenn aryaputr213W09 aryaputr213 0035-FF84 Verified
 ZCZC MaxLFS 735M
 ZCZC MaxROOT 1730M
-ZCZC MaxMemory 95M
+ZCZC MaxMemory 94M
 ZCZC MaxSwap 0M
