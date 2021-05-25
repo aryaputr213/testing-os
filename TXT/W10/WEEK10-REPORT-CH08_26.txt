@@ -1,0 +1,16 @@
+ZCZC ===== Chapter 08_26 =====  Week 10 =====
+ZCZC pwd /home/aryaputr213/git/os211quiz/SandBox/W10/W10
+ZCZC date 210525-2205
+ZCZC hostname aryaputr213
+ZCZC username aryaputr213
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M      /mnt/lfs/sources/
+ZCZC verifyTokenn aryaputr213W10 aryaputr213 0519-4B05 Verified
+ZCZC MaxLFS 482M
+ZCZC MaxROOT 2195M
+ZCZC MaxMemory 103M
+ZCZC MaxSwap 0M
+ZCZC verifyTokenn aryaputr213W10 aryaputr213 0622-6BCB Verified
+ZCZC verifyTokenn aryaputr213W10 aryaputr213 0723-A757 Verified
